@@ -37,3 +37,8 @@ Python 3
 3.Run the script: python color_game.py
 
 4.Enjoy the game!
+
+# Author
+Evangeline Maddela
+
+https://github.com/evangelinemaddela
